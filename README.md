@@ -130,7 +130,6 @@ Security awareness, user education, support best practices
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/angelgomez562/]
 - Email: [mr.angelgomez562@gmail.com]
-- GitHub: [Add your GitHub profile]
 
 - ## Goal
 I am looking for an entry-level IT Help Desk / IT Support role where I can bring strong customer service, troubleshooting ability, and a willingness to learn fast.
